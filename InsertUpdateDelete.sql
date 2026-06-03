@@ -48,3 +48,4 @@ from products;
 -- 9. List all suppliers
 SELECT *
 FROM Suppliers;
+
